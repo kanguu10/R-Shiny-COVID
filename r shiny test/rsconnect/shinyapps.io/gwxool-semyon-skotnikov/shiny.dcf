@@ -1,0 +1,14 @@
+name: shiny
+title: shiny
+username:
+account: gwxool-semyon-skotnikov
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8992511
+bundleId: 7155939
+url: https://gwxool-semyon-skotnikov.shinyapps.io/shiny/
+when: 1682864073.43171
+lastSyncTime: 1682864073.43171
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: covid19.csv|r shiny test.R|r shiny test.Rmd

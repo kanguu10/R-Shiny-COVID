@@ -1,0 +1,26 @@
+{
+    "id": "1FAA5C01",
+    "path": "C:/work/projects/r shiny test/stockVis/app.R",
+    "project_path": "stockVis/app.R",
+    "type": "r_source",
+    "hash": "1253738764",
+    "contents": "",
+    "dirty": false,
+    "created": 1682762358180.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "18,26",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1682762073,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1682762073,
+    "read_only": false,
+    "read_only_alternatives": []
+}
